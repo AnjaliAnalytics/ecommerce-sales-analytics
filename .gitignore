@@ -1,0 +1,19 @@
+# Ignore raw and processed CSV data files
+*.csv
+data/processed/*.csv
+
+# Allow keeping the data directory structure
+!data/
+!data/processed/
+
+# Ignore Python & Jupyter artifacts
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# Ignore only heavy processed output files
+data/processed/
+
+# Python artifacts
+__pycache__/
+.ipynb_checkpoints/
