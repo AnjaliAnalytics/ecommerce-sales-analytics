@@ -110,25 +110,31 @@ Profit Margin % = DIVIDE([Total Profit], [Total Revenue], 0)
 OTDR % = DIVIDE(CALCULATE(COUNTROWS(fact_orders), fact_orders[delivery_status] = "On Time"), COUNTROWS(fact_orders), 0)
 
 8. Dashboard Architecture & Screenshots
-The reporting suite consists of meticulously designed interactive pages:
+### Executive Overview
+High-level macro KPIs, revenue trends, and regional performance summaries.
+![Executive Overview](<img width="1204" height="484" alt="executive_overview" src="https://github.com/user-attachments/assets/653597e3-feff-4115-a7c4-ca767f9c29f1" />
+)
 
-Executive Overview: High-level macro KPIs, revenue trends, and regional performance summaries.
-<img width="1204" height="484" alt="executive_overview" src="https://github.com/user-attachments/assets/21df6821-2c82-41fe-a94a-51cfdad73ed9" />
+### Customer Dashboard
+Cohort analysis, customer acquisition trends, and repeat purchase tracking.
+![Customer Dashboard](screenshots/customer_dashboard.png)
 
-Customer Dashboard: Cohort analysis, customer acquisition trends, and repeat purchase tracking.
-<img width="1199" height="485" alt="image" src="https://github.com/user-attachments/assets/7942dd45-1712-48a1-918e-b8419ba7f058" />
+### Sales & Products Dashboard
+Category performance, Pareto distribution of top SKUs, and volume velocity.
+![Sales & Products Dashboard](screenshots/sales_products.png)
 
-Sales & Products Dashboard: Category performance, Pareto distribution of top SKUs, and volume velocity.
-<img width="1206" height="481" alt="image" src="https://github.com/user-attachments/assets/98d68c8b-57a2-49e8-b691-83ea1bf207da" />
+### Logistics & Delivery Dashboard
+Geographic heatmaps of shipping delays, carrier performance, and freight cost variance.
+![Logistics & Delivery Dashboard](screenshots/logistics_delivery.png)
 
-Logistics & Delivery Dashboard: Geographic heatmaps of shipping delays, carrier performance, and freight cost variance.
-<img width="1191" height="490" alt="image" src="https://github.com/user-attachments/assets/8eae847d-2a71-40b7-8f9e-ba1b665c0d71" />
+### Profit Dashboard
+Net profit margins, cost-to-serve analysis, and SKU-level profitability breakdowns.
+![Profit Dashboard](screenshots/profit_dashboard.png)
 
-Profit Dashboard: Net profit margins, cost-to-serve analysis, and SKU-level profitability breakdowns.
-<img width="1139" height="455" alt="image" src="https://github.com/user-attachments/assets/a5a03aab-1021-4e75-b635-e463ea4147c7" />
+### Recommendations Dashboard
+Strategic executive summary combining data visuals with prioritized action items.
+![Recommendations Dashboard](screenshots/recommendations.png)
 
-Recommendations Dashboard: Strategic executive summary combining data visuals with prioritized action items.
-<img width="1184" height="418" alt="image" src="https://github.com/user-attachments/assets/736089b9-4f87-4ab3-b6e5-0c126799cc91" />
 
 9. Key Business Insights
 The Revenue Illusion: High gross revenue figures heavily mask regional profitability leaks caused by disproportionate freight costs in remote states.
