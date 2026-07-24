@@ -116,23 +116,24 @@ High-level macro KPIs, revenue trends, and regional performance summaries.
 
 ### Customer Dashboard
 Cohort analysis, customer acquisition trends, and repeat purchase tracking.
-![Customer Dashboard](https://raw.githubusercontent.com/AnjaliAnalytics/ecommerce-sales-analytics/main/Customer%20Dashboard.png)
+![Customer Dashboard](https://raw.githubusercontent.com/AnjaliAnalytics/ecommerce-sales-analytics/main/customer_dashboard.png)
 
 ### Sales & Products Dashboard
 Category performance, Pareto distribution of top SKUs, and volume velocity.
-![Sales & Products Dashboard](https://raw.githubusercontent.com/AnjaliAnalytics/ecommerce-sales-analytics/main/Sales%20%26%20Products.png)
+![Sales & Products Dashboard](https://raw.githubusercontent.com/AnjaliAnalytics/ecommerce-sales-analytics/main/sales_products.png)
 
 ### Logistics & Delivery Dashboard
 Geographic heatmaps of shipping delays, carrier performance, and freight cost variance.
-![Logistics & Delivery Dashboard](https://raw.githubusercontent.com/AnjaliAnalytics/ecommerce-sales-analytics/main/Logistics%20%26%20Delivery.png)
+![Logistics & Delivery Dashboard](https://raw.githubusercontent.com/AnjaliAnalytics/ecommerce-sales-analytics/main/logistics_delivery.png)
 
 ### Profit Dashboard
 Net profit margins, cost-to-serve analysis, and SKU-level profitability breakdowns.
-![Profit Dashboard](https://raw.githubusercontent.com/AnjaliAnalytics/ecommerce-sales-analytics/main/Profit%20Dashboard.png)
+![Profit Dashboard](https://raw.githubusercontent.com/AnjaliAnalytics/ecommerce-sales-analytics/main/profit_dashboard.png)
 
 ### Recommendations Dashboard
 Strategic executive summary combining data visuals with prioritized action items.
-![Recommendations Dashboard](https://raw.githubusercontent.com/AnjaliAnalytics/ecommerce-sales-analytics/main/Recommendations.png)
+![Recommendations Dashboard](https://raw.githubusercontent.com/AnjaliAnalytics/ecommerce-sales-analytics/main/recommendations.png)
+
 
 9. Key Business Insights
 The Revenue Illusion: High gross revenue figures heavily mask regional profitability leaks caused by disproportionate freight costs in remote states.
