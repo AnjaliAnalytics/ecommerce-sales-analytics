@@ -113,7 +113,9 @@ OTDR % = DIVIDE(CALCULATE(COUNTROWS(fact_orders), fact_orders[delivery_status] =
 The reporting suite consists of meticulously designed interactive pages:
 
 Executive Overview: High-level macro KPIs, revenue trends, and regional performance summaries.
-<img width="1204" height="484" alt="image" src="https://github.com/user-attachments/assets/55d34d3d-eda1-4e0d-a54a-f07edca7d1a8" />
+![Executive Overview](<img width="1204" height="484" alt="image" src="https://github.com/user-attachments/assets/55d34d3d-eda1-4e0d-a54a-f07edca7d1a8" />
+)
+
 
 Customer Dashboard: Cohort analysis, customer acquisition trends, and repeat purchase tracking.
 <img width="1199" height="485" alt="image" src="https://github.com/user-attachments/assets/7942dd45-1712-48a1-918e-b8419ba7f058" />
