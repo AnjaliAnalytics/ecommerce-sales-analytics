@@ -116,23 +116,23 @@ High-level macro KPIs, revenue trends, and regional performance summaries.
 
 ### Customer Dashboard
 Cohort analysis, customer acquisition trends, and repeat purchase tracking.
-![Customer Dashboard](https://raw.githubusercontent.com/AnjaliAnalytics/ecommerce-sales-analytics/main/customer_dashboard.png)
+![Customer Dashboard](https://raw.githubusercontent.com/AnjaliAnalytics/ecommerce-sales-analytics/main/customer_dashboard.png.png)
 
 ### Sales & Products Dashboard
 Category performance, Pareto distribution of top SKUs, and volume velocity.
-![Sales & Products Dashboard](https://raw.githubusercontent.com/AnjaliAnalytics/ecommerce-sales-analytics/main/sales_products.png)
+![Sales & Products Dashboard](https://raw.githubusercontent.com/AnjaliAnalytics/ecommerce-sales-analytics/main/sales_products.png.png)
 
 ### Logistics & Delivery Dashboard
 Geographic heatmaps of shipping delays, carrier performance, and freight cost variance.
-![Logistics & Delivery Dashboard](https://raw.githubusercontent.com/AnjaliAnalytics/ecommerce-sales-analytics/main/logistics_delivery.png)
+![Logistics & Delivery Dashboard](https://raw.githubusercontent.com/AnjaliAnalytics/ecommerce-sales-analytics/main/logistics_delivery.png.png)
 
 ### Profit Dashboard
 Net profit margins, cost-to-serve analysis, and SKU-level profitability breakdowns.
-![Profit Dashboard](https://raw.githubusercontent.com/AnjaliAnalytics/ecommerce-sales-analytics/main/profit_dashboard.png)
+![Profit Dashboard](https://raw.githubusercontent.com/AnjaliAnalytics/ecommerce-sales-analytics/main/profit_dashboard.png.png)
 
 ### Recommendations Dashboard
 Strategic executive summary combining data visuals with prioritized action items.
-![Recommendations Dashboard](https://raw.githubusercontent.com/AnjaliAnalytics/ecommerce-sales-analytics/main/recommendations.png)
+![Recommendations Dashboard](https://raw.githubusercontent.com/AnjaliAnalytics/ecommerce-sales-analytics/main/recommendations.png.png)
 
 
 9. Key Business Insights
