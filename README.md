@@ -112,8 +112,7 @@ OTDR % = DIVIDE(CALCULATE(COUNTROWS(fact_orders), fact_orders[delivery_status] =
 8. Dashboard Architecture & Screenshots
 ### Executive Overview
 High-level macro KPIs, revenue trends, and regional performance summaries.
-![Executive Overview](<img width="1204" height="484" alt="executive_overview" src="https://github.com/user-attachments/assets/653597e3-feff-4115-a7c4-ca767f9c29f1" />
-)
+![Executive Overview](screenshots/executive_overview.png)
 
 ### Customer Dashboard
 Cohort analysis, customer acquisition trends, and repeat purchase tracking.
